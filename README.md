@@ -2,7 +2,7 @@
 
 ### Usage guide:
 - Change all the details from one place: `_data/data.yml`
-
+- The pdf version is hosted in Google driver for better display (you can put it in git though)
 
 
 ### Acknowledgement:
