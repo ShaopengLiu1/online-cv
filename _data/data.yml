@@ -167,12 +167,12 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: "CMash: fast, multi-resolution estimation of k-mer-based Jaccard and containment indices. (In preparation)"
-        #link: ""
+      - title: "CMash: fast, multi-resolution estimation of k-mer-based Jaccard and containment indices. (Preprint)"
+        link: "https://www.biorxiv.org/content/10.1101/2021.12.06.471436v1"
         authors: <u>Shaopeng Liu</u>, David Koslicki
         #conference: 
 
-      - title: "AIAP: A Quality Control and Integrative Analysis Package to Improve ATAC-seq Data Analysis. (In Press)"
+      - title: "AIAP: A Quality Control and Integrative Analysis Package to Improve ATAC-seq Data Analysis."
         link: "https://www.sciencedirect.com/science/article/pii/S1672022921001479?v=s5"
         authors: <u>Shaopeng Liu</u>, Daofeng Li, Cheny Lyu, Paul Gontarz, Benpeng Miao, Pamela A.F. Madder, Ting Wang, Bo Zhang
         conference: "<i>Genomics, Proteomics & Bioinformatics </i> (2021)"
